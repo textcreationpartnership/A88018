@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent out of Holland from Hans Hue-&amp; Cry, van Hang-&amp;-draw, the executioner; to his trusty and ill-beloved friend, Gregory the second, son of the destinies, terror to treason, arch-arme-strong of the axe, knight of the noose, ruler of the rope, and lord of the triple territory. With his letter sent in answer, treating deepe and dangerously of affaires in State. September 28. and October 4.</title>
+            <author>Hans Hue-and-Cry, Van Hang-and-Draw.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88018</idno>
+            <idno type="STC">Wing L1614</idno>
+            <idno type="STC">Thomason E121_42</idno>
+            <idno type="STC">ESTC R212767</idno>
+            <idno type="EEBO-CITATION">99871341</idno>
+            <idno type="PROQUEST">99871341</idno>
+            <idno type="VID">123751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123751)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent out of Holland from Hans Hue-&amp; Cry, van Hang-&amp;-draw, the executioner; to his trusty and ill-beloved friend, Gregory the second, son of the destinies, terror to treason, arch-arme-strong of the axe, knight of the noose, ruler of the rope, and lord of the triple territory. With his letter sent in answer, treating deepe and dangerously of affaires in State. September 28. and October 4.</title>
+                  <author>Hans Hue-and-Cry, Van Hang-and-Draw.</author>
+                  <author>Tybourne-proof, Gregory.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Iohnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Hans Hue-&amp; Cry van Hang-&amp;-Draw and Gregory Tybourne-proof [whose name appears on p.8] are pseudonyms.</note>
+                  <note>Annotation on Thomason copy: "Octo: 12".</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123751:1"/>
+            <pb facs="tcp:123751:1" rendition="simple:additions"/>
+            <p>A LETTER ſent out of HOLLAND from <hi>Hans Hue-&amp; Cry, van Hang-&amp;-draw,</hi> The Executioner; To his truſty and ill-beloved friend, <hi>Gregory</hi> the ſecond, ſon of the Deſtinies, Terror to Treaſon, Arch-Arme-ſtrong of the Axe, Knight of the Nooſe, Ruler of the Rope, and Lord of the Triple TERRITORY.</p>
+            <p>With his Letter ſent in anſwer, trea<g ref="char:EOLhyphen"/>ting deepe and dangerouſly of affaires in State.</p>
+            <p>
+               <hi>September</hi> 28. <hi>and October</hi> 4.</p>
+            <p>London, Printed for <hi>Thomas Iohnſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:123751:2"/>
+            <pb n="3" facs="tcp:123751:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTVTEM</q>
+                  <figDesc>a device consisting of an open book with a sword, scepter, and surrounding motto</figDesc>
+               </figure>
+            </head>
+            <head>A Letter ſent out of Holland, from <hi>Hans Hue-and-Cry, van-Hang-and-Draw,</hi> The Executioner: To his truſty and ill-beloved friend, <hi>Gregory</hi> the ſecond, ſon of the Deſtinice, &amp;c.</head>
+            <opener>
+               <salute>
+                  <hi>Corde worthy,</hi>
+                  <seg rend="decorInit">A</seg>Nd thrice deſerving <hi>Greg.</hi>
+               </salute>
+            </opener>
+            <p>I with my Fol<g ref="char:EOLhyphen"/>lowers, and <hi>Hangers-on;</hi> ſalute thee with one a <hi>Corde:</hi> not forgetting, but alwayes remembring my love to both thy wives, and thy Heire apparant, whom we doubt not but in time will be brought up to the Gal<g ref="char:EOLhyphen"/>lowes, to equall, if not exceed his father <hi>Gregory;</hi> well mayſt thou remaine praiſe-worthy in the moſt laſting memory of Officers, that ſo carefully againſt a time of ſuch great imployment didſt provide two ſuch wives, which in caſe of extremity, are as two ſtrings to your Bow; or (according to our Cordage phraſe) like a <hi>Rope</hi> and <hi>Butter,</hi> if one ſlip the other will hold; But ſetting aſide this preambulation, I ſhall at large de<g ref="char:EOLhyphen"/>clare to thee my Embaſie, and the cauſe of it; I have
+<pb n="4" facs="tcp:123751:3"/>beene inform'd, that there is a laſting tye of friendſhip conferr'd of, and confirmed betwixt you and the De<g ref="char:EOLhyphen"/>ſtinies, that <hi>Atropos</hi> the <hi>third fatall Siſter,</hi> hath reſigned her office, converted the <hi>thred of Life,</hi> to the <hi>Halter of Death,</hi> and onely left it to thy cutting.</p>
+            <p>Theſe are humbly to certifie thee, that the late ho<g ref="char:EOLhyphen"/>neſty of our Nation, have almoſt undone us; they are growne ſo unworthy, that there is ſcarce one man amongſt twenty that deſerves <hi>Hanging</hi> (more is the pitty) but it is reported (to your joy and comfort) that in your Countrey, ſcarce one amongſt forty de<g ref="char:EOLhyphen"/>ſerve leſſe. It is reported to us, that Treaſon is but a trifle with you, and (if your civill warre goe on) <hi>Murthers</hi> will ſeeme but modeſt <hi>Miſchiefes;</hi> w<hi rend="sup">ch</hi> if it be your fate to out-live, there will be worke in abundance for you; but if <hi>Treaſon, Murther, Rapine,</hi> (by ſtrange <hi>Rhetoricke</hi>) be proved no leſſe then the <hi>Liberty</hi> of the Subject, I will not give a Whipcord for your Office; the <hi>Rope-maker</hi> will not truſt you, and then you may hang your ſelfe in your owne. Garters; but for mine owne hopes I wiſh things may be otherwiſe. My re<g ref="char:EOLhyphen"/>queſt to you therefore is that you will provide me a houſe neere Wapping, for it is my intention (ſince I know I ſhall eſcape drowning) to take ſhipping for London, where, I doubt not but I ſhall performe the Office of an abſolute Journiman, and very cheape (in time of full doings.) I will execute Man or Woman for two pence a perſon, which (according to the Engliſh account) is three ſlips for a Teſter; upon con<g ref="char:EOLhyphen"/>dition, that when the Rebellion is concluded, you will make me your deputy in Ireland, where I hope I ſhall lay my ſword at the root of the tree; and ſhew my
+<pb n="5" facs="tcp:123751:3"/>ſelfe (for your honour, and my owne) not much infe<g ref="char:EOLhyphen"/>riour to you, we will divide our labours into fit ſea<g ref="char:EOLhyphen"/>ſons; The <hi>Papiſts</hi> ſhall ſuffer one day, the <hi>Brwniſts</hi> the ſecond, and the <hi>Anabaptiſt</hi> the third, becauſe the firſt hath occaſion to ſtay in <hi>Purgatory,</hi> till the other two are ready for a further journey; And that we might bee famed the greateſt Nooſe-mongers in Europe, wee will have the forme of our Engines of <hi>Execution</hi> con<g ref="char:EOLhyphen"/>trary to all that ever was; my Gallowes ſhall be made <hi>Square,</hi> and yours ſhall be <hi>Round,</hi> you ſhall hang with a <hi>Corde,</hi> and I with a <hi>With,</hi> you behead with an <hi>Axe,</hi> and I with a <hi>Sword.</hi> If you like well of theſe honeſt propoſitions, which are but modeſt &amp; civill, I will not <hi>Hang-an-Arſe,</hi> but preſently preſent my ſervice to you; My brother <hi>Breake-necke</hi> of Amſterdam, My Cozen <hi>Cut throat</hi> of Rotterdam, with my honeſt friend <hi>Hans-van-ſtripe</hi> (the Beadle) commend their ſervice to you, and would thinke them ſelves very happy to wait upon you: ſo likewiſe would my Uncle <hi>Burne-in-hant,</hi> with his honeſt ſon <hi>Brand-well van Crop-eare;</hi> all waiting the execution of your will: I pray faile not to ſend me a ſpeedy anſwer, as you reſpect,</p>
+            <closer>
+               <signed>Your most humble ſervant of the Nooſe. <hi>Hans Hue and-Cry, van Hang-and-draw.</hi>
+               </signed>
+               <dateline>From my houſe in Rotterdam its Sledge-street, at the Signe of the Gibbet <date>this 28 of September. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:123751:4"/>
+            <argument>
+               <p>The Anſwer to this Letter, written by <hi>Gregory,</hi> and by the way intercepted.</p>
+            </argument>
+            <head>To his much reſpected Friend. <hi>Hauns Hue-an-Cry</hi> van <hi>Hang-an-draw</hi> at his Houſe in Sledge-ſtreet in Rotterdam, at the Signe of the Gibbet; theſe preſent.</head>
+            <opener>
+               <salute>To the Gallowes worthy and forty times deſerving <hi>Hue-an-Cry</hi> van <hi>Hang-an-draw, Gregory</hi> the ſecond ſends greeting.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received your laſt Packet, dated the 18. of <hi>August,</hi> wherein you became an humble Petitioner for my Service, and fully expreſſe how laborious a Rea<g ref="char:EOLhyphen"/>per you would be in my harveſt. It is moſt certaine, I ſhall have daily uſe for ſuch Artiſts as your ſelfe; but as yet I am ſome<g ref="char:EOLhyphen"/>what doubtfull in my choice, I would entertaine none but knowne and approved men of honeſt lives and con<g ref="char:EOLhyphen"/>verſation, whoſe credits have hung up faire in the ſight of people, and whoſe reputations can endure the Rack; For it is not unknowne to you my predeceſſors (of happy memory, were no leſſe, who have been nearly and dearly acquainted with great States-men, and many well borne (though ill heed) Gentlemen; Who have
+<pb n="7" facs="tcp:123751:4"/>ſo devoutly loved him, they would ſooner loſe their lives then part with them (and oftentimes it happened ſo) Therefore if you can bring over with you an Epiſtle commendatory, or a Letter of your Commendations for you and your friends, no queſtion but I ſhall give you favourable attention, and a gentle hearing, and when I have diſpoſed you to your ſeverall quarters, I hope (like loving Cord-crackers) you will <hi>hang toge<g ref="char:EOLhyphen"/>ther in the chaines of amity.</hi> I muſt confeſſe, I doe daily expect imployment; for (as you ſay) Treaſon is ſuch a trifle with us, that ſome can ſpeake no other language, their mouthes ſo flowing over with Blaſphemy, as if they intended tranſverſion of Chriſtendome to its firſt Paganiſme. I doe very well approve your fancy for a <hi>Round</hi> and <hi>Square</hi> Gallowes; we ſhall have uſe for them.</p>
+            <p>I thanke you for your kind commendations to my two wives; but ſince you heard laſt from me, the Law will allow me but one, and for that fault have confined me to my Office, which as times happen, will appeare to me an eaſie bondage. You will converſe with men of great birth in <hi>Ireland,</hi> nor ſhall I treate with men much inferiour in <hi>England,</hi> if they give not over their Ma<g ref="char:EOLhyphen"/>lignancy, which if they doe, they will in ſpight of my teeth preſerve an old Prouerbe, And <hi>Couzen the Hang<g ref="char:EOLhyphen"/>man.</hi> I pray come over as well accoutred as you can, and give the ſame advice to your Hangers-on; It will be for my credit, as for your owne imployment; I be<g ref="char:EOLhyphen"/>leeve you are almoſt as skilfull as my ſelf, but for your followers they are but newly come to it; therefore you may be their inſtructors, and <hi>Hang till they mend.</hi>
+            </p>
+            <pb n="8" facs="tcp:123751:5"/>
+            <p> Much more I ſhould write, but the high affaires which are my hourely cogitations <hi>Cut me off</hi> from many things. I thanke you Friends for their kinde commendations, and returne my love to all of them.</p>
+            <p>
+               <hi>Iohn-Swing-thief</hi> of Maidſtone, remembers his com<g ref="char:EOLhyphen"/>mendations to you, and thanks you for your love when he was in Holland. <hi>Stephen Strangle-man</hi> of Bambery ſalutes you with his ſervice, and bid me tell you (if you are well furniſhed) <hi>Hemp</hi> will be a good commodity, and be good chaffer for very choice ware in this King<g ref="char:EOLhyphen"/>dome, ſo in expectation of your ſpeedy arrivall at Wapping, I bid you twiſe God-buie.</p>
+            <closer>
+               <dateline>Knoc-fargus in Roſemary<g ref="char:EOLhyphen"/>lane, <date>this 15. day of &amp;c. near Tower-Hill. 1642.</date>
+               </dateline>
+               <signed>Your burning Friend, <hi>Gregory Tybourne-proofe.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123751:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
